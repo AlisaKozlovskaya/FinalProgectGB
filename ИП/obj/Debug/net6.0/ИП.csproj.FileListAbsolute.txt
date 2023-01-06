@@ -1,0 +1,15 @@
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\bin\Debug\net6.0\ИП.exe
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\bin\Debug\net6.0\ИП.deps.json
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\bin\Debug\net6.0\ИП.runtimeconfig.json
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\bin\Debug\net6.0\ИП.dll
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\bin\Debug\net6.0\ИП.pdb
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\obj\Debug\net6.0\ИП.csproj.AssemblyReference.cache
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\obj\Debug\net6.0\ИП.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\obj\Debug\net6.0\ИП.AssemblyInfoInputs.cache
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\obj\Debug\net6.0\ИП.AssemblyInfo.cs
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\obj\Debug\net6.0\ИП.csproj.CoreCompileInputs.cache
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\obj\Debug\net6.0\ИП.dll
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\obj\Debug\net6.0\refint\ИП.dll
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\obj\Debug\net6.0\ИП.pdb
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\obj\Debug\net6.0\ИП.genruntimeconfig.cache
+D:\Data\GeekBrains\Выбор специализации\ДЗ\ИП\obj\Debug\net6.0\ref\ИП.dll
